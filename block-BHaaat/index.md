@@ -1,5 +1,3 @@
-writeCode
-
 ### Create a page with the following elements
 
 1. Create a page having just one box.
