@@ -1,0 +1,34 @@
+{
+  "name": "Assignment I",
+  "displayName": "Assignment I",
+  "descriptionURL": "https://github.com/AltCampus/AC-STYLE-box-model-THaaac/tree/master/Ex2-assignment-level-1-EHaaak/block-01-BHaaap/index.md",
+  "uniqueCode": "BHaaap",
+  "type": "writeCode",
+  "level": 1,
+  "contentType": "",
+  "automatedFeedback": "https://youtube.com/embed/70A_F2sb-Wk",
+  "githubBranchName": "",
+  "openFile": "index.html",
+  "isTestable": false,
+  "estimatedTimeToComplete": 0,
+  "isPotentialInterviewQuestion": false,
+  "quizOptions": {
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": ""
+  },
+  "quizCorrectAnswerOptions": [],
+  "correctAnswerExplanation": "",
+  "todo": {
+    "isReviewed": false,
+    "isAssignmentDone": true,
+    "shouldSplitBlock": false,
+    "actionsRequired": [{
+      "videoId": "",
+      "scrimbaId": "",
+      "type": "toVideo",
+      "topic": ""
+    }]
+  }
+}
