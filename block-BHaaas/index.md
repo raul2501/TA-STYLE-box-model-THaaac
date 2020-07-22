@@ -1,5 +1,3 @@
-writeCode
-
 ### Create a page with the following elements
 
 1. Create a box having dimensions 300px X 200px. The box also has padding of 20px, border of 10px dashed and margin of 20px.
