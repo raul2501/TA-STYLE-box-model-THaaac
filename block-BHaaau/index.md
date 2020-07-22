@@ -1,5 +1,3 @@
-writeCode
-
 ### Create a page according to the layout shown below
 
 ![Box Model Exercise 6](https://raw.githubusercontent.com/suraj122/AC-STYLE-images/master/box-model/ex-6.png)
