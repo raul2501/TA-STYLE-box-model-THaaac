@@ -1,5 +1,3 @@
-writeCode
-
 ### Create a web page with the following characteristics:
 
 1. Heading element(h1) should be at the top of the page.
