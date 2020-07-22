@@ -1,0 +1,34 @@
+{
+  "name": "Assignment VII",
+  "displayName": "Assignment VII",
+  "descriptionURL": "https://github.com/AltCampus/AC-STYLE-box-model-THaaac/tree/master/Ex8-assignment-level-7-EHaaaq/block-01-BHaaav/index.md",
+  "uniqueCode": "BHaaav",
+  "type": "writeCode",
+  "level": 1,
+  "contentType": "csb",
+  "automatedFeedback": "https://youtube.com/embed/1qQsp1GoWJ8",
+  "githubBranchName": "",
+  "openFile": "index.html",
+  "isTestable": false,
+  "estimatedTimeToComplete": 0,
+  "isPotentialInterviewQuestion": false,
+  "quizOptions": {
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": ""
+  },
+  "quizCorrectAnswerOptions": [],
+  "correctAnswerExplanation": "",
+  "todo": {
+    "isReviewed": false,
+    "isAssignmentDone": true,
+    "shouldSplitBlock": false,
+    "actionsRequired": [{
+      "videoId": "",
+      "scrimbaId": "",
+      "type": "toVideo",
+      "topic": ""
+    }]
+  }
+}
