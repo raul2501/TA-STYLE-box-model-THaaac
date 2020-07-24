@@ -1,3 +1,4 @@
+<!---
 ### Create a page with the following elements
 
 1. Create a page having just one box.
@@ -14,3 +15,4 @@
 
 - Using CSS resets is necessary.
 - Use semantic tags and keep the nesting and indentation proper.
+--->
