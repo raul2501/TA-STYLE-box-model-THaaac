@@ -1,0 +1,126 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* custom styles*/ 
+h1 {
+    margin: 20px;
+	font-size: 30px;
+	font-weight: bold;
+}
+.square1 {
+    height: 50px;
+    width: 100px;
+    border: 3px solid black;
+    background-color: darkred;
+	margin: 20px;
+	margin-top: 50px;
+	padding-top: 20px;
+}
+.container1 {
+	height: 50px;
+	width: 200px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.square2-dashed-border {
+	height: 50px;
+    width: 100px;
+    border: 3px dashed black;
+    background-color: darkred;
+	margin: 20px;
+	margin-top: 20px;
+	padding-top: 20px;
+}
+.square2-double-border {
+	height: 50px;
+    width: 100px;
+    border: 3px double black;
+    background-color: darkred;
+	margin: 20px;
+	margin-top: 20px;
+	padding-top: 20px;
+}
+.container2 { 
+	height: 50px;
+	width: 200px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	padding-top: 50px;
+}
+.square3-dotted-border {
+	height: 50px;
+    width: 100px;
+    border: 3px dotted black;
+    background-color: darkred;
+	margin: 20px;
+	margin-top: 20px;
+	padding-top: 20px;
+} 
+.square3-no-border { 
+	height: 50px;
+    width: 100px;
+    background-color: darkred;
+	margin: 20px;
+	margin-top: 20px;
+	padding-top: 25px;
+}
+.container3 {
+	border: 20px solid purple;
+	display: inline-block;
+	margin-top: 75px;
+	margin-left: 5px;
+}
+.text { 
+	height: 350px;
+	width: 225px;
+	background-color: red;
+	border-left: 15px green solid;
+	border-top: 15px blue solid;
+	border-right: 15px gray solid;
+	border-bottom: 15px yellow solid;
+	font-size: 15px;
+	word-wrap: break-word;
+	color: white;
+	padding: 20px;
+}
