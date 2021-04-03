@@ -1,0 +1,86 @@
+<!---
+### Create a page according to the layout shown below
+
+![Box Model Exercise 6](https://raw.githubusercontent.com/suraj122/AC-STYLE-images/master/box-model/ex-6.png)
+
+#### Problems for exercise 2 in the layout
+
+- Each parent container has width of 600px and border of 1px;
+- Each children box has width 180px and height 100px as well as margin of 10px;
+- Each child box which is having border has border-width 1px.
+- Note in the first container the boxes do not have any border.
+
+- Using CSS resets is necessary.
+- Use semantic tags and keep the nesting and indentation proper.
+--->
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title> Assignment 3 | Box Model </title>
+    <link rel="stylesheet" href="stylesheet.css"> 
+</head>
+
+<body> 
+    <h1>The Box Model, Box-sizing & Box-shadow </h1>
+
+    <main> 
+        <div class="container1"> 
+            <section> 
+            <p>Exercise1</p>
+            <div class="border1"> 
+                <div class="child1"> </div>
+            </div>
+        </section>
+        <section>  
+            <div class="legend"> 
+            <div class="circle"></div><span>content</span> 
+            <div class="circle-blue"></div><span>padding</span>
+            <div class="circle-black"></div><span>border</span>
+            <div class="circle-tomato"></div><span>margin</span>
+            </div>
+        </section>
+        </div>
+        <div class="container2">
+            <section> 
+                <p>Exercise2</p>
+                <p class="subheading">no border on these boxes.</p> 
+            </section>
+            <section> 
+            <div class="subcontainer1"> 
+                <div class="box"></div> 
+                <div class="box"></div>
+                <div class="box"></div> 
+            </div>
+        </section>
+        </div>
+        <div class="container3"> 
+            <section>
+                <p class="subheading"> 1px border on these boxes. </p>
+            </section> 
+            <section> 
+                <div class="subcontainer2"> 
+                    <div class="box-up"></div> 
+                    <div class="box-up"></div>
+                    <div class="box-down"></div> 
+                </div>
+            </section>
+        </div>
+        <div class="container4"> 
+            <section> 
+                <p class="subheading"> 1px border on these boxes but they are in same line.</p>
+            </section>
+            <section> 
+                <div class="subcontainer3"> 
+                    <div class="box3"></div> 
+                    <div class="box3"></div>
+                    <div class="box3"></div> 
+                </div>
+            </section>
+        </div> 
+    </main>
+</body>
+
+</html>
+
